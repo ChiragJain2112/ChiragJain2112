@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋,</h1>
 <p>I am Chirag, a Devops Enthusiate from 🇮🇳, passionate about streamlining software development, deployment, and operations. With a strong background in automating build, test, and deployment pipelines, I aim to optimize software delivery processes for seamless, scalable, and reliable deployments.<p>
 
-- 💬 Ask me about **Linux, Git & Github, Docker, Jenkins.**
+- 💬 Ask me about **Linux, Git & Github, Docker, Jenkins, Kubernetes, Ansible**
 
 - 📫 How to reach me **cjain6641@gmail.com**
 
