@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Linux, Git & Github, Docker, Jenkins, Kubernetes, Ansible**
 
-- 📫 How to reach me **cjain6641@gmail.com**
+- 📫 Shoot me an email **cjain6641@gmail.com**
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
